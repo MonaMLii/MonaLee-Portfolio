@@ -1,3 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 10px;
+  padding: 10px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+  background-color: #EDEDE9;
+}
+
+
+.navbar {
+  background-color: F5EBE0;
+}
+
 .App {
   text-align: center;
 }
@@ -12,6 +29,9 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
+
+
 
 .App-header {
   background-color: #282c34;
