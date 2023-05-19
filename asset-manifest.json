@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.954fbd83.css",
+    "main.js": "/static/js/main.00abeca2.js",
+    "static/media/perfectweekendIMG.png": "/static/media/perfectweekendIMG.e87c777e7b0a3c820880.png",
+    "static/media/projectperfectIMG.png": "/static/media/projectperfectIMG.e539afccc2f1b1d2109c.png",
+    "static/media/mona.jpg": "/static/media/mona.e76fa9413766f900745e.jpg",
+    "static/media/weatherIMG.png": "/static/media/weatherIMG.0bedce2ce4748a3da90a.png",
+    "static/media/codequizIMG.png": "/static/media/codequizIMG.0e441d3331821159d5ce.png",
+    "index.html": "/index.html",
+    "main.954fbd83.css.map": "/static/css/main.954fbd83.css.map",
+    "main.00abeca2.js.map": "/static/js/main.00abeca2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.954fbd83.css",
+    "static/js/main.00abeca2.js"
+  ]
+}
