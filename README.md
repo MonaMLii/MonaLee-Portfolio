@@ -28,12 +28,12 @@ npm start
 
 ## Acceptance Criteria
 
-```md
+```
 On a single-page application portfolio for a web developer
 
 I am presented with a page containing a header, a section for content, and a footer when I load the portfolio
 
- I am presented with the developer's name and navigation with titles corresponding to different sections of the portfolio when I view the header
+I am presented with the developer's name and navigation with titles corresponding to different sections of the portfolio when I view the header
 
 I am presented with the titles About Me, Portfolio, Contact, and Resume, and the title corresponding to the current section is highlighted when I view the navigation titles
 
